@@ -1,2 +1,2 @@
 #Alx Software enigineering training
-creating this file remote linux using Emacs editor.
+creating this file from remote linux using Emacs editor.
